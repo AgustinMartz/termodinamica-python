@@ -4,5 +4,11 @@
 
 Para ejecutar los programas, necesitas tener instalado Python 3.x y las siguientes bibliotecas:
 
+numpy
+scipy
+matplotlib
+CoolProp
+
+
 ```bash
 pip install numpy scipy matplotlib CoolProp
