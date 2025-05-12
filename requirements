@@ -1,0 +1,8 @@
+---
+
+## ⚙️ Requisitos
+
+Para ejecutar los programas, necesitas tener instalado Python 3.x y las siguientes bibliotecas:
+
+```bash
+pip install numpy scipy matplotlib CoolProp
