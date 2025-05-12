@@ -32,28 +32,3 @@ Este proyecto fue desarrollado en el marco del Programa Delfín (2023–2024), d
   [agustin.martinez@academicos.udg.mx]  
 
 ---
-
-## 📁 Estructura del repositorio
-
-termodinamica-python/
-│
-├── README.md                 ← Descripción general del proyecto
-├── LICENSE                   ← Licencia (ej. MIT)
-├── requirements.txt          ← Librerías necesarias
-│
-├── van_der_waals/            ← Carpeta 1: Ejemplos con Van der Waals
-│   ├── vdw_pura.py
-│   ├── vdw_mezcla.py (si lo tienes)
-│   └── ejemplo_vdw.ipynb (si usas notebooks)
-│
-├── redlich_kwong/           ← Carpeta 2: Redlich-Kwong (después)
-│   ├── rk_pura.py
-│   └── rk_mezcla.py
-│
-├── peng_robinson/           ← Carpeta 3: Peng-Robinson (después)
-│   └── ...
-│
-├── coolprop_integration/    ← Carpeta 4: Integración con CoolProp
-│   └── ...
-│
-└── CREDITOS.md              ← Archivo opcional para reconocer a los autores
