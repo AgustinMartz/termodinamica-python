@@ -16,4 +16,21 @@ Fomentar el aprendizaje activo de la termodinámica en estudiantes de ingenierí
 
 ---
 
+## 👥 Créditos
+
+Este proyecto fue desarrollado en el marco del Programa Delfín (2023–2024), durante estancias de investigación en el Departamento de Ingeniería Química de la Universidad de Guadalajara.
+
+### Estudiantes participantes:
+
+- **Nombre Apellido 1** – Universidad Tecnológica de X
+- **Nombre Apellido 2** – Universidad Y
+- ...
+  
+### Asesor responsable:
+- **Dr. Agustín Martínez Ruvalcaba**  
+  Universidad de Guadalajara – CUCEI  
+  [agustin.martinez@academicos.udg.mx]  
+
+---
+
 ## 📁 Estructura del repositorio
