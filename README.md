@@ -45,14 +45,27 @@ Este repositorio está organizado en carpetas temáticas que agrupan los código
 
 Este proyecto fue desarrollado en el marco del Programa Delfín, durante las estancias de investigación 2023–2025, con la participación de estudiantes de diversas instituciones de educación superior.
 
-Estudiantes participantes
+Estudiantes participantes:
 
-(Actualizar según los nombres reales)
-	•	Nombre Apellido – Universidad
-	•	Nombre Apellido – Universidad
-	•	…
+2021:
+	Démian Josué Olvera Flores
+	Juan Carlos Rodríguez Aguilar Juan Carlos
+2023:
+	Benjamín Acosta Santos
+	Lorena Giselle Rodriguez Beas
+	Juan Pablo Suarez del Real
+2024:
+	Gabriel Cázares Dueñas
+	Karla Anette Davalos Gallardo
+	Justo Alonso Rodríguez Lomelí
+	Johan Isaac Rodriguez Mercado
+2025:
+	Sofia Adame Avila
+	Maria Teresa Ornelas Amezcua
+	Itzel Villarreal Haro
   
-  
+---
+
 ## Asesores responsables:
 - **Dr. Agustín Martínez Ruvalcaba**  
   Universidad de Guadalajara – CUCEI  
