@@ -50,19 +50,23 @@ Estudiantes participantes:
 2021:
 	Démian Josué Olvera Flores
 	Juan Carlos Rodríguez Aguilar Juan Carlos
+	
 2023:
 	Benjamín Acosta Santos
 	Lorena Giselle Rodriguez Beas
 	Juan Pablo Suarez del Real
+	
 2024:
 	Gabriel Cázares Dueñas
 	Karla Anette Davalos Gallardo
 	Justo Alonso Rodríguez Lomelí
 	Johan Isaac Rodriguez Mercado
+	
 2025:
 	Sofia Adame Avila
 	Maria Teresa Ornelas Amezcua
 	Itzel Villarreal Haro
+	
   
 ---
 
