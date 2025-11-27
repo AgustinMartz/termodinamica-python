@@ -2,15 +2,37 @@
 
 ## ⚙️ Requisitos
 
-Para ejecutar los programas, necesitas tener instalado Python 3.x y las siguientes bibliotecas:
+Para ejecutar los programas incluidos en este repositorio, necesitas contar con:
 
-numpy
-scipy
-matplotlib
-CoolProp
-Cantera
-Polyprop
+1. Python
+	•	Python 3.9 o superior
+Se recomienda instalarlo mediante Anaconda o Miniconda, especialmente si se utilizarán Jupyter Notebooks.
 
+2. Bibliotecas necesarias
 
-```bash
-pip install numpy scipy matplotlib CoolProp
+Los códigos y notebooks utilizan los siguientes módulos de Python:
+	•	numpy — operaciones numéricas
+	•	scipy — funciones científicas y métodos numéricos
+	•	matplotlib — visualización de datos
+	•	pandas — manejo de datos en tablas (usado en notebooks)
+	•	CoolProp — propiedades termodinámicas para sustancias puras y mezclas
+	•	cantera — modelos termodinámicos y cinéticos avanzados
+	•	pyromat — propiedades termodinámicas en un entorno didáctico
+	•	jupyterlab o notebook — entorno interactivo para ejecutar notebooks
+
+3. Instalación de dependencias
+
+Puedes instalar todas las bibliotecas principales con:
+
+pip install numpy scipy matplotlib pandas
+pip install CoolProp
+pip install cantera
+pip install pyromat
+pip install jupyterlab
+
+4. (Opcional) Integración con IA
+
+Para los notebooks que emplean un modelo de lenguaje mediante la API de OpenAI:
+
+pip install openai
+
