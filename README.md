@@ -53,7 +53,7 @@ Estudiantes participantes
 	•	…
   
   
-### Asesores responsables:
+## Asesores responsables:
 - **Dr. Agustín Martínez Ruvalcaba**  
   Universidad de Guadalajara – CUCEI  
   [agustin.martinez@academicos.udg.mx]
@@ -64,7 +64,7 @@ Estudiantes participantes
 
 ---
 
-🔍 Uso y licenciamiento
+## 🔍 Uso y licenciamiento
 
 El contenido del repositorio se publica con el propósito de apoyar la docencia y la investigación formativa en termodinámica computacional. 
 
